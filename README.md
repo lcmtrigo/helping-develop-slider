@@ -7,3 +7,7 @@ Part 1 - Structure: https://www.youtube.com/watch?v=QtYP_eSVKfs
 Part 2 - Looping Function: https://www.youtube.com/watch?v=z277ZUHNnnE
 
 Part 3 - User Controls: https://www.youtube.com/watch?v=XlYsjMPCgfI
+
+# Live demo
+
+https://htmlpreview.github.io/?https://github.com/rmtrigo/helping-develop-slider/blob/master/index.html
